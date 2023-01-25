@@ -1,0 +1,16 @@
+127.0.0.1 - - [10/Dec/2022:12:36:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:36:53 +0530] "GET /Project_4/jsp/LoginView.jsp HTTP/1.1" 200 2518
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:36:53 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:37:18 +0530] "GET /Project_4/jsp/GetMarksheetView.jsp HTTP/1.1" 200 2098
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:37:18 +0530] "GET /Project_4/img/Raysicon.png HTTP/1.1" 404 785
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:37:35 +0530] "POST /Project_4/ctl/GetMarksheetCtl HTTP/1.1" 200 2596
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:37:35 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:38:02 +0530] "POST /Project_4/ctl/GetMarksheetCtl HTTP/1.1" 200 2596
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:38:34 +0530] "POST /Project_4/LoginCtl HTTP/1.1" 200 2587
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:42:37 +0530] "POST /Project_4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:42:38 +0530] "GET /Project_4/UserRegistrationCtl HTTP/1.1" 200 5707
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:42:38 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:42:38 +0530] "GET /Project_4/img/logo.png HTTP/1.1" 404 781
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:43:40 +0530] "POST /Project_4/UserRegistrationCtl HTTP/1.1" 200 5893
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:43:40 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:12:43:53 +0530] "POST /Project_4/UserRegistrationCtl HTTP/1.1" 500 2577

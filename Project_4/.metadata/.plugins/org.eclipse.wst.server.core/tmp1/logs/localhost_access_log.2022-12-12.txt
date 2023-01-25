@@ -1,0 +1,15 @@
+127.0.0.1 - - [12/Dec/2022:11:53:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:11:53:07 +0530] "GET /Project_4/ HTTP/1.1" 200 483
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:11:53:07 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:11:53:10 +0530] "GET /Project_4/WelcomeCtl HTTP/1.1" 200 1190
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:11:53:12 +0530] "GET /Project_4/LoginCtl HTTP/1.1" 200 2518
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:11:53:33 +0530] "POST /Project_4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:11:53:33 +0530] "GET /Project_4/WelcomeCtl HTTP/1.1" 200 2904
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:11:53:47 +0530] "GET /Project_4/ctl/RoleListCtl HTTP/1.1" 200 5275
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:11:53:47 +0530] "GET /Project_4/js/Checkbox11.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:11:53:47 +0530] "GET /Project_4/js/jquery.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:11:53:47 +0530] "GET /Project_4/img/logo.png HTTP/1.1" 404 781
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:12:07:02 +0530] "POST /Project_4/ctl/RoleListCtl HTTP/1.1" 200 5031
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:12:07:06 +0530] "POST /Project_4/ctl/RoleListCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:12:07:06 +0530] "GET /Project_4/ctl/RoleListCtl HTTP/1.1" 200 5275
+0:0:0:0:0:0:0:1 - - [12/Dec/2022:12:07:35 +0530] "GET /Project_4/LoginCtl?operation=logout HTTP/1.1" 200 2541

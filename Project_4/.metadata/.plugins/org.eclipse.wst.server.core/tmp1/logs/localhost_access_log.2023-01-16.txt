@@ -1,0 +1,14 @@
+127.0.0.1 - - [16/Jan/2023:19:35:48 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:35:50 +0530] "GET /Project_4/ HTTP/1.1" 200 483
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:35:50 +0530] "GET /Project_4/img/customLogo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:35:51 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:35:53 +0530] "GET /Project_4/WelcomeCtl HTTP/1.1" 200 1190
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:35:54 +0530] "GET /Project_4/LoginCtl HTTP/1.1" 200 2518
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:36:16 +0530] "POST /Project_4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:36:16 +0530] "GET /Project_4/WelcomeCtl HTTP/1.1" 200 2904
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:36:21 +0530] "GET /Project_4/ctl/MarksheetListCtl HTTP/1.1" 200 9568
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:36:21 +0530] "GET /Project_4/js/jquery.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:36:21 +0530] "GET /Project_4/js/Checkbox11.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:36:21 +0530] "GET /Project_4/img/logo.png HTTP/1.1" 404 908
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:41:39 +0530] "GET /Project_4/ctl/CourseListCtl HTTP/1.1" 200 6475
+0:0:0:0:0:0:0:1 - - [16/Jan/2023:19:41:39 +0530] "GET /Project_4/img/Raysicon.png HTTP/1.1" 404 908
