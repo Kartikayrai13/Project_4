@@ -6,7 +6,7 @@ import java.sql.Timestamp;
 /**
  * * Parent class of all Beans in application. It contains generic attributes.
  * 
- * @author Akshay Kumar
+ * @author Kartikay Rai
  *
  */
 public abstract class BaseBean implements Serializable, DropdownListBean, Comparable<BaseBean> {
